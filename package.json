@@ -1,0 +1,30 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@atproto/api": "^0.3.13",
+    "@google/maps": "^1.1.3",
+    "@googlemaps/google-maps-services-js": "^3.3.26",
+    "@skyware/jetstream": "^0.2.0",
+    "all-the-cities": "^3.1.0",
+    "atproto-firehose": "^0.2.2",
+    "axios": "^1.2.2",
+    "base-64": "^1.0.0",
+    "blob": "^0.1.0",
+    "canvas": "^2.11.2",
+    "deepai": "^0.0.3",
+    "fetch": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "geolib": "^3.3.3",
+    "https": "^1.0.0",
+    "image-downloader": "^4.3.0",
+    "image-to-base64": "^2.2.0",
+    "node-fetch": "^3.3.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "twit": "^1.1.20",
+    "twitter": "^1.1.0",
+    "twitter-api-v2": "^1.15.1",
+    "twitter-oauth2": "^1.0.9",
+    "ws": "^8.18.0"
+  }
+}
