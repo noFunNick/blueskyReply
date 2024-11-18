@@ -3,9 +3,7 @@ import pkg from '@atproto/api';
 const { BskyAgent, RichText } = pkg;
 var fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
 import fs from 'fs';
-//var apiKey = "AIzaSyDsxhEVOwm1e7eFNiPE3f8zsMmL9YbRsts";
 const agent = new BskyAgent({ service: "https://bsky.social" });
-// var config = require('./config')
 import  config  from './config.js';
 import { Jetstream } from "@skyware/jetstream";
 import { request } from 'https';
